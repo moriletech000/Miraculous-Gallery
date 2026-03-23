@@ -41,8 +41,3 @@ Make sure the following assets are in the same folder as the HTML files:
 ## License
 
 Fan project — not affiliated with ZAG or the official Miraculous franchise.
-
-## Contact
-
-- Email: infomorile@gmail.com
-- Location: Lagos, Nigeria
